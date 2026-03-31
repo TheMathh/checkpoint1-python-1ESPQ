@@ -1,4 +1,4 @@
-#Checkpoint 1 - Mateus Alves Borges
+#Checkpoint 1 - Mateus Alves Borges, Arthur de Sá, Anthony Leal
 
 ajuda = str(input("Você quer que a câmera da JOVI faça ajustes automáticos para ajudar nessa captura? Responda sim ou nao."))
 
